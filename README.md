@@ -2,7 +2,7 @@
 <p align="center">
   <img src="Neon%20Green%20Developer%20Portfolio%20Banner%20%281%29.png" width="100%">
 </p>
- LEARN | BUILD | INVENT
+ LEARN | BUILD | INNOVATE
 
 <!--
 **shrishailsc/shrishailsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
